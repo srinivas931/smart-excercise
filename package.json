@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
+    "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-intl": "^3.4.0",
+    "react-scripts": "3.2.0",
+    "terra-button": "^3.25.0",
+    "terra-form-field": "^3.28.0",
+    "terra-form-input": "^2.30.0",
+    "terra-hyperlink": "^2.21.0",
+    "terra-paginator": "^2.31.0",
+    "terra-table": "^3.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
