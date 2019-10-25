@@ -12,3 +12,7 @@ Here are few patient id values for testing
 
 - 4342008
 - 4342012
+
+Dependencies Used
+- Terra UI, Cerner OSS
+- axios, library for making HTTP requests
